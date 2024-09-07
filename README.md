@@ -1,6 +1,5 @@
 # Hi there, I'm iheb sebai 👋
 
-## 🚀 About Me
 
 ```javascript
 const aboutMe = {
