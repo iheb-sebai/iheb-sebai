@@ -1,7 +1,5 @@
 # Hi there, I'm iheb sebai 👋
 
-Hi there! 👋 I’m [Your Name], a passionate Software Developer with expertise in the MERN stack, Next.js, and Docker. I thrive on building scalable and efficient web applications.
-
 ## 🚀 About Me
 
 ```javascript
