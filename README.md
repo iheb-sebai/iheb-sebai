@@ -12,8 +12,8 @@ const aboutMe = {
     techStack: ["React", "Node.js", "Docker", "NestJS"],
     funFact: "I can solve a Rubik's Cube in under 2 minutes and 30 seconds!",
     links: {
-        github: [iheb-sebai](ihesebai4444@gmail.com),
-        linkedin: "[iheb-sebai](https://www.linkedin.com/in/iheb-sebai/)"
+        github: "iheb-sebai",
+        linkedin: "iheb sebai"
     }
 };
 ```
