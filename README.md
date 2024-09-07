@@ -4,6 +4,7 @@ Hi there! 👋 I’m [Your Name], a passionate Software Developer with expertise
 
 ## 🚀 About Me
 
+```javascript
 const aboutMe = {
     name: "Iheb Sebai",
     profession: "Software Developer",
