@@ -2,14 +2,26 @@
 
 Hi there! 👋 I’m [Your Name], a passionate Software Developer with expertise in the MERN stack, Next.js, and Docker. I thrive on building scalable and efficient web applications.
 
-- 🔭 I’m currently working on developing full-stack applications using the MERN stack (MongoDB, Express, React, Node.js) and enhancing my skills with Next.js for server-side rendering and static site generation.
-- 🌱 I’m diving deeper into containerization with Docker to streamline development workflows and improve deployment processes.
-- 👯 I’m looking to collaborate on innovative projects involving microservices architecture and cloud-native applications.
-- 🤔 I’m interested in exploring new trends in web development, particularly around serverless architectures and DevOps practices.
+## 🚀 About Me
 
-- 🤝 I’m open to help with MERN stack challenges, Next.js features, or Docker best practices.
-- 💬 Feel free to ask me about front-end development with React, backend services with Node.js, or how to containerize your applications with Docker.
+- 💻 Currently employed at softylines.
+- 🌱 Always eager to learn and grow in the field of software development.
+- 💬 Feel free to ask me about anything related to software development; I'm always happy to help!
 
+## 🛠️ Skills
+
+- **Languages**: HTML5, CSS3, JavaScript
+- **Libraries**: React, React Native, jQuery
+- **Runtimes**: Node.js
+- **Frameworks**: Express, Next.js, NestJS
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **ORMs**: Prisma, Sequelize, TypeORM
+- **Tools**: Figma, Trello, Firebase, Git, Docker
+
+## 📫 How to Reach Me
+
+- 📧 Email: [iheb-sebai](ihesebai4444@gmail.com)
+- 🌐 LinkedIn: [iheb-sebai](https://www.linkedin.com/in/iheb-sebai/)
 
 <!--
 **iheb-sebai/iheb-sebai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
