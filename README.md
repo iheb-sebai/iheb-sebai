@@ -29,11 +29,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 My All-Time GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iheb-sebai&count_private=true&include_all_commits=true&show_icons=true)
-
-## ⏳ Full Contribution History
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iheb-sebai&theme=github)](https://github.com/iheb-sebai)
-
-## 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
